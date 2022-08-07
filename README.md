@@ -1,2 +1,2 @@
 # to-do-list
-Go to url https://todolist146.herokuapp.com/
+#This is the link to To do list https://todolist146.herokuapp.com/
